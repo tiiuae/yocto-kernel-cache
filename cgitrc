@@ -1,2 +1,3 @@
 desc=Patches and configuration for the linux-yocto kernel tree
-section=Yocto Linux Kernelhide=0
+section=Yocto Linux Kernel
+hide=0
